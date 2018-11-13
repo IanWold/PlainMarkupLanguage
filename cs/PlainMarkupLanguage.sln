@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlainMarkupLanguage", "PlainMarkupLanguage\PlainMarkupLanguage.csproj", "{D8D5C92B-778D-4349-B8F4-FFF30ED232D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainMarkupLanguage.Example", "PlainMarkupLanguage.Example\PlainMarkupLanguage.Example.csproj", "{EE5E8326-DF9E-460E-9DE2-B8012181678C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D5C92B-778D-4349-B8F4-FFF30ED232D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D5C92B-778D-4349-B8F4-FFF30ED232D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D5C92B-778D-4349-B8F4-FFF30ED232D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D5C92B-778D-4349-B8F4-FFF30ED232D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5E8326-DF9E-460E-9DE2-B8012181678C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5E8326-DF9E-460E-9DE2-B8012181678C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5E8326-DF9E-460E-9DE2-B8012181678C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5E8326-DF9E-460E-9DE2-B8012181678C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D255DA8-E134-467A-9AD0-A7EF3E740DC0}
+	EndGlobalSection
+EndGlobal
