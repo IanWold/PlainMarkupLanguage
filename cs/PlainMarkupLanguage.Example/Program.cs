@@ -15,7 +15,7 @@ namespace PlainMarkupLanguage.Example
                 var watch = Stopwatch.StartNew();
                 var res = Parse(text);
                 watch.Stop();
-                WriteLine("Algorithm finished in " + watch.ElapsedMilliseconds + " milliseconds");
+                WriteLine("Finished in " + watch.ElapsedMilliseconds + " ms");
                 ReadLine();
             }
         }
